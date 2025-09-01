@@ -13,4 +13,5 @@
 2-pandas – for data storage and analysis
 
 3-matplotlib – for plotting charts
+
 It is considered an intermediate-level project because it integrates GUI programming (Tkinter), data handling (Pandas), visualization (Matplotlib), and performance analysis logic into one complete application.
